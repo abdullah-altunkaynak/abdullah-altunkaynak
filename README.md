@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1788&q=80" width="auto">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ![icon](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![icon](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![icon](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
