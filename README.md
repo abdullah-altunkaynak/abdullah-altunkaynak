@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white])](https://github.com/abdullah-altunkaynak)
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-altunkaynak-443ab7215/) [![Github Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@altunkaynakabdullah99)
 
+<h1> About my Github </h1>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=abdullah-altunkaynak&show_icons=true&theme=radical)
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username={abdullah-altunkaynak}&theme=blue-green)
