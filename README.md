@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - I am looking for a job where I can gain experience and improve my skills.
 - 🤔 I’m looking for help with to see my mistakes with an outside eye and improve myself.
 - I'm using these IDEs ![icon](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![icon](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![icon](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- I'm using linters ![icon](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![icon](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 <h1> Follow Me! </h1>
 
