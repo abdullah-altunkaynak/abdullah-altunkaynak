@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <h1> About my Github </h1>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=abdullah-altunkaynak&show_icons=true&theme=radical)
-![github](https://github-readme-stats.vercel.app/api/top-langs/?username={abdullah-altunkaynak}&theme=blue-green)
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-altunkaynak&theme=blue-green)
