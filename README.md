@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah-altunkaynak&theme=radical" alt="WakaTime Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahaltunkaynak&theme=radical" alt="WakaTime Stats" width="48%">
   <img src="https://img.shields.io/github/stars/abdullah-altunkaynak?style=for-the-badge&color=CC2927&label=GitHub%20Stars" alt="GitHub Stars" align="center">
   <img src="https://img.shields.io/github/followers/abdullah-altunkaynak?style=for-the-badge&color=F80000&label=GitHub%20Followers" alt="GitHub Followers" align="center">
 </p>
