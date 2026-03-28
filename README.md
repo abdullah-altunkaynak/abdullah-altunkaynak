@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋 I'm Abdullah Altunkaynak</h1>
 <h3 align="center">Full Stack Developer | AI & Data Engineer Specialist</h3>
 
+---
+
+### 🚀 About Me
+
+- 🌱 **AI Engineer Certified:** Proudly **AI Engineer for Developers Associate Certified by DataCamp** <img src="assets/image_1.png" width="25" align="center">, specializing in core AI principles and efficient implementation.
 <p align="center">
   <img src="assets/image_0.png" width="100%" alt="DataCamp AI Engineer Certification Banner">
 </p>
 
----
-
-### 🚀 About Me
-- 🌱 **AI Engineer Certified:** Proudly **AI Engineer for Developers Associate Certified by DataCamp** (`assets/image_1.png`), specializing in core AI principles and efficient implementation.
 - 🔭 **Specialized AI Solutions:** Focused on integrating intelligent agents and predictive models into enterprise backend systems.
+- 🏆 **Featured Project:** Check out my **AI Agent Marketplace & Arena:** [AgentArena.me](https://agentarena.me/) <img src="https://img.shields.io/badge/Status-Beta-EBC23E?style=for-the-badge&logo=ai&logoColor=black" align="center">
 - 🔭 Actively developing **enterprise-level backend systems, cross-platform mobile applications, and AI-driven automation tools**.
 - 🌱 Improving myself in **Clean Architecture, Microservices, Advanced SQL & Deep Learning for Computer Vision and NLP**.
 - 👯 Open to **collaboration on open-source projects involving AI integration, Microservices, or Scalable Architectures**.
@@ -26,6 +28,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EBC23E?style=for-the-badge&logo=ai&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-F47C2F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector_DB-FFC107?style=for-the-badge&logo=redis&logoColor=black)
+![Python](https://img.shields.io/badge/python-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 #### 💻 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -59,6 +62,9 @@
 ### 🌍 Connect With Me
 
 <p align="center">
+  <a href="https://agentarena.me/">
+    <img src="https://img.shields.io/badge/Project-AgentArena.me-02569B?style=for-the-badge&logo=ai&logoColor=white" alt="AgentArena.me Project">
+  </a>
   <a href="https://github.com/abdullah-altunkaynak">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -70,6 +76,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah-altunkaynak&theme=radical" alt="WakaTime Stats" width="48%">
+  <img src="https://img.shields.io/github/stars/abdullah-altunkaynak?style=for-the-badge&color=CC2927&label=GitHub%20Stars" alt="GitHub Stars" align="center">
+  <img src="https://img.shields.io/github/followers/abdullah-altunkaynak?style=for-the-badge&color=F80000&label=GitHub%20Followers" alt="GitHub Followers" align="center">
+</p>
 ---
 
 ### 📊 GitHub Stats
