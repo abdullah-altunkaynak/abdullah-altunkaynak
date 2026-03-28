@@ -1,24 +1,31 @@
 <h1 align="center">Hi 👋 I'm Abdullah Altunkaynak</h1>
-<h3 align="center">Full Stack Developer | Mobile & Backend Specialist</h3>
+<h3 align="center">Full Stack Developer | AI & Data Engineer Specialist</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1600&q=80" width="32%">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=80" width="32%">
+  <img src="assets/image_0.png" width="100%" alt="DataCamp AI Engineer Certification Banner">
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Actively developing **enterprise-level backend systems & cross-platform mobile applications**
-- 🌱 Improving myself in **Clean Architecture, Microservices, Advanced SQL & UI/UX**
-- 👯 Open to **collaboration & open-source contributions**
+- 🌱 **AI Engineer Certified:** Proudly **AI Engineer for Developers Associate Certified by DataCamp** (`assets/image_1.png`), specializing in core AI principles and efficient implementation.
+- 🔭 **Specialized AI Solutions:** Focused on integrating intelligent agents and predictive models into enterprise backend systems.
+- 🔭 Actively developing **enterprise-level backend systems, cross-platform mobile applications, and AI-driven automation tools**.
+- 🌱 Improving myself in **Clean Architecture, Microservices, Advanced SQL & Deep Learning for Computer Vision and NLP**.
+- 👯 Open to **collaboration on open-source projects involving AI integration, Microservices, or Scalable Architectures**.
 - 🤔 Looking for **code reviews and feedback to grow further**
-- 💬 Ask me about **C#, ASP.NET Core, Flutter, SQL, PL/SQL**
-- ⚡ Fun fact: I love building **fast, scalable & clean software solutions**
+- 💬 Ask me about **C#, ASP.NET Core, OpenAI API, Prompt Engineering, Flutter, SQL, PL/SQL**
+- ⚡ Fun fact: I love transforming data into intelligent, actionable insights through clean software solutions.
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack (Enhanced with AI)
+
+#### 🤖 AI & Machine Learning
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EBC23E?style=for-the-badge&logo=ai&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-F47C2F?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_DB-FFC107?style=for-the-badge&logo=redis&logoColor=black)
 
 #### 💻 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,10 +49,10 @@
 ---
 
 ### 🔥 What I'm Currently Working On
-- 🏗 Enterprise-level **ASP.NET Core Backend Systems**
-- 📱 High performance **Flutter Mobile Applications**
-- ⚙ Advanced **PL/SQL & MSSQL Optimization**
-- 🧠 Clean Architecture & Microservices
+- 🏗 Architecting an **ASP.NET Core Backend with Integrated AI agents for automation**.
+- 📱 Developing intelligent, context-aware **Flutter Mobile Applications**.
+- ⚙ Optimizing complex **PL/SQL systems for predictive analytics**.
+- 🧠 Designing and deploying **Microservices for scalable AI inferencing**.
 
 ---
 
@@ -74,4 +81,4 @@
 
 ---
 
-<p align="center">🔥 Clean Code • Scalable Architecture • High Performance 🔥</p>
+<p align="center">🔥 Clean Code • Scalable AI Architecture • Intelligent Insights 🔥</p>
