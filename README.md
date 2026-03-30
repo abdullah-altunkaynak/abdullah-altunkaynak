@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Abdullah Altunkaynak</h1>
-<h3 align="center">Full Stack Developer | AI & Data Engineer Specialist</h3>
+<h3 align="center">Full Stack Developer | AI | Data Engineer Specialist</h3>
 
 ---
 
