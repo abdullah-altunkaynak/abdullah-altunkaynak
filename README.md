@@ -78,8 +78,25 @@
 
 <p align="center">
   <!--START_SECTION:waka-->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahaltunkaynak&theme=radical" alt="WakaTime Stats" width="48%">
-  <!--END_SECTION:waka-->
+
+```txt
+From: 30 March 2026 - To: 06 April 2026
+
+Total Time: 21 hrs 29 mins
+
+Dart         8 hrs 51 mins         🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   39.00 %
+JavaScript   4 hrs 40 mins         🟧🟧🟧🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   20.56 %
+Markdown     2 hrs 57 mins         🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   13.03 %
+C#           1 hr 38 mins          🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   07.22 %
+Python       1 hr 17 mins          🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   05.70 %
+Other        1 hr 15 mins          🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   05.50 %
+Binary       41 mins               🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   03.04 %
+YAML         25 mins               🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   01.85 %
+Bash         22 mins               🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   01.66 %
+Text         17 mins               🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   01.31 %
+```
+
+<!--END_SECTION:waka-->
   <img src="https://img.shields.io/github/stars/abdullah-altunkaynak?style=for-the-badge&color=CC2927&label=GitHub%20Stars" alt="GitHub Stars" align="center">
   <img src="https://img.shields.io/github/followers/abdullah-altunkaynak?style=for-the-badge&color=F80000&label=GitHub%20Followers" alt="GitHub Followers" align="center">
 </p>
