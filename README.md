@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 **Specialized AI Solutions:** Focused on integrating intelligent agents and predictive models into enterprise backend systems.
-- 🏆 **Featured Project:** Check out my **AI Agent Marketplace & Arena:** [AgentArena.me](https://agentarena.me/) <img src="https://img.shields.io/badge/Status-Beta-EBC23E?style=for-the-badge&logo=ai&logoColor=black" align="center">
+- 🏆 **Featured Project:** Check out my **AI Agent Marketplace & Arena:** [AgentArena.me](https://agentarena.me/) <img src="https://img.shields.io/badge/Status-Closed-ff0000?style=for-the-badge&logo=ai&logoColor=black" align="center">
 - 🔭 Actively developing **enterprise-level backend systems, cross-platform mobile applications, and AI-driven automation tools**.
 - 🌱 Improving myself in **Clean Architecture, Microservices, Advanced SQL & Deep Learning for Computer Vision and NLP**.
 - 👯 Open to **collaboration on open-source projects involving AI integration, Microservices, or Scalable Architectures**.
