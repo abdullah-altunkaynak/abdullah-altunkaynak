@@ -80,12 +80,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2026 - To: 30 June 2026
+From: 11 March 2026 - To: 01 July 2026
 
-Total Time: 207 hrs 46 mins
+Total Time: 207 hrs 48 mins
 
 Dart                       83 hrs 27 mins        ██████████░░░░░░░░░░░░░░░   40.16 %
-C#                         37 hrs 41 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+C#                         37 hrs 43 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
 JavaScript                 19 hrs 36 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 Other                      13 hrs 46 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 Binary                     13 hrs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
