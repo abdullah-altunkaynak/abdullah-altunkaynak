@@ -80,20 +80,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2026 - To: 22 July 2026
+From: 11 March 2026 - To: 23 July 2026
 
-Total Time: 224 hrs 20 mins
+Total Time: 230 hrs 34 mins
 
-Dart                       87 hrs 8 mins         █████████▓░░░░░░░░░░░░░░░   38.84 %
-C#                         43 hrs 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-JavaScript                 20 hrs 18 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Binary                     15 hrs 27 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other                      13 hrs 46 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Markdown                   11 hrs 27 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-CSHTML                     8 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Python                     4 hrs 52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-YAML                       4 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-TypeScript                 3 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Dart                       90 hrs                █████████▓░░░░░░░░░░░░░░░   39.03 %
+C#                         43 hrs 46 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+JavaScript                 20 hrs 21 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Binary                     15 hrs 52 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Other                      13 hrs 53 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown                   13 hrs 26 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+CSHTML                     8 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Python                     4 hrs 52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+YAML                       4 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+TypeScript                 3 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
