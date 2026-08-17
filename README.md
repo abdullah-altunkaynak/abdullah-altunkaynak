@@ -80,7 +80,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2026 - To: 15 August 2026
+From: 11 March 2026 - To: 16 August 2026
 
 Total Time: 288 hrs 3 mins
 
